@@ -1,0 +1,13 @@
+.controles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+
+.controles button {
+    margin: 0 5px;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
