@@ -1,3 +1,18 @@
+title {
+    font-family: cursive;
+}
+h1{
+    font-family: cursive;
+}
+h2 {
+    font-family: cursive;
+}
+a {
+    font-family: cursive;
+}
+p {
+    font-family: cursive;
+}
 .controles {
     display: flex;
     justify-content: center;
@@ -11,4 +26,6 @@
     border: none;
     cursor: pointer;
 }
+
+
 
